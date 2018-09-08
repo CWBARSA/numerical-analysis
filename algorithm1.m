@@ -1,4 +1,4 @@
-%Œ»∂®À„∑®
+%Stability algorithm
 x=0.0684;
 n=10;
 I=[];
