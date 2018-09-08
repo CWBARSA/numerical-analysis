@@ -1,4 +1,4 @@
-%≤ªŒ»∂®À„∑®
+%unstable algorithm
 x=0.6321;
 n=9;
 I=[];
