@@ -1,2 +1,2 @@
 # numerical-analysis
-Some Matlab demos about Numerical Analysis
+Some Matlab demos which were written by me about Numerical Analysis
